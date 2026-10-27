@@ -13,11 +13,15 @@ WebGPU Gaussian Splat Viewer
 
 ### Live Demo
 
-TODO: add the GitHub Pages link.
+[Live Demo](https://harperli680.github.io/Project5-WebGPU-Gaussian-Splat-Viewer/)
+
+Open it in a browser that supports WebGPU, then load a `.ply` scene under `ply_file` and its `cameras.json` under `cam_file`.
 
 ### Demo Video
 
-TODO: add the video link.
+[Demo video on Google Drive](https://drive.google.com/file/d/1bEU5inJoWzTej_KmpwNS63vhgTGQnxB8/view?usp=sharing)
+
+This video shows camera controls and presets, switching between the point cloud and Gaussian renderers, the Gaussian scale slider, f32/f16 precision, workgroup size, and frustum culling.
 
 ### Features
 
